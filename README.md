@@ -1,4 +1,4 @@
-##Love a minimalistic approach.
+### Love a minimalistic approach.
 
 Try to stay focused on data science topics, constantly distracted by puzzles on Codewars
 
