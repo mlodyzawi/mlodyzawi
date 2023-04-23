@@ -2,7 +2,7 @@
 
 ## site reliability engineer
 
-core skills: python, bash, infra monitoring, HCL/terraform
+core skills: python, bash, infra monitoring, HCL/terraform, k8s
 
 educational background: quantitative methods in economics and information systems
 
